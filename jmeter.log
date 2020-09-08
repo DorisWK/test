@@ -1,0 +1,22 @@
+2020-08-01 01:12:07,712 INFO o.a.j.u.JMeterUtils: Setting Locale to zh_CN
+2020-08-01 01:12:07,727 INFO o.a.j.JMeter: Loading user properties from: /Applications/apache-jmeter-5.3/bin/user.properties
+2020-08-01 01:12:07,728 INFO o.a.j.JMeter: Loading system properties from: /Applications/apache-jmeter-5.3/bin/system.properties
+2020-08-01 01:12:07,729 INFO o.a.j.JMeter: Copyright (c) 1998-2020 The Apache Software Foundation
+2020-08-01 01:12:07,729 INFO o.a.j.JMeter: Version 5.3
+2020-08-01 01:12:07,729 INFO o.a.j.JMeter: java.version=1.8.0_201
+2020-08-01 01:12:07,729 INFO o.a.j.JMeter: java.vm.name=Java HotSpot(TM) 64-Bit Server VM
+2020-08-01 01:12:07,729 INFO o.a.j.JMeter: os.name=Mac OS X
+2020-08-01 01:12:07,729 INFO o.a.j.JMeter: os.arch=x86_64
+2020-08-01 01:12:07,729 INFO o.a.j.JMeter: os.version=10.15.6
+2020-08-01 01:12:07,729 INFO o.a.j.JMeter: file.encoding=UTF-8
+2020-08-01 01:12:07,729 INFO o.a.j.JMeter: java.awt.headless=null
+2020-08-01 01:12:07,729 INFO o.a.j.JMeter: Max memory     =1073741824
+2020-08-01 01:12:07,729 INFO o.a.j.JMeter: Available Processors =8
+2020-08-01 01:12:07,733 INFO o.a.j.JMeter: Default Locale=English (EN)
+2020-08-01 01:12:07,733 INFO o.a.j.JMeter: JMeter  Locale=Chinese (China)
+2020-08-01 01:12:07,733 INFO o.a.j.JMeter: JMeterHome=/Applications/apache-jmeter-5.3
+2020-08-01 01:12:07,733 INFO o.a.j.JMeter: user.dir  =/Users/yuxingwei
+2020-08-01 01:12:07,733 INFO o.a.j.JMeter: PWD       =/Users/yuxingwei
+2020-08-01 01:12:07,748 INFO o.a.j.JMeter: IP: 192.168.0.108 Name: 192.168.0.108 FullName: 192.168.0.108
+2020-08-01 01:12:08,027 INFO o.a.j.JMeter: Setting LAF to: com.github.weisj.darklaf.DarkLaf:com.github.weisj.darklaf.theme.DarculaTheme
+2020-08-01 01:12:09,239 INFO o.a.j.JMeter: Loaded icon properties from org/apache/jmeter/images/icon.properties
